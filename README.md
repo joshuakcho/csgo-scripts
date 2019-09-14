@@ -8,10 +8,10 @@ Variety of scripts from autoexecs, to static viewmodel manipulation.
 
  - Add .cfg files to CSGO Config directory
  
-  ***...\Steam\userdata\STEAM_ID\730\local\cfg***
+  	***...\Steam\userdata\STEAM_ID\730\local\cfg***
  - Then in console:
  
-  ***exec SCRIPT_NAME***
+  	***exec SCRIPT_NAME***
 
 ## How To Edit:
 
