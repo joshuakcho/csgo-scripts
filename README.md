@@ -15,7 +15,7 @@ Variety of scripts from autoexecs, to static viewmodel manipulation.
 
 Use Notepad++ or Wordpad to edit binds and alias commands
 
-## Reverting Back to Default Settings
+## Reverting Back to Default Settings:
 
 Delete the .cfg file or script, and verify integrity of game cache through Steam
 
