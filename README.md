@@ -1,15 +1,33 @@
-# csgo-scripts
-###########################################################
-=== Custom Scripts for Counter-Strike: Global Offensive ===
-###########################################################
+# Custom Counter-Strike: Global Offensive Scripts
 
-====== To Use: ======
-Add .cfg files to CSGO directory,
-
-...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
-
-In console, "exec SCRIPT_NAME"
+Variety of scripts from autoexecs, to static viewmodel manipulation.
 
 
 
-====== Enjoy! ======
+## How To Use:
+
+Add .cfg files to CSGO Config directory
+
+***...\Steam\userdata\STEAM_ID\730\local\cfg***
+
+Then in console:
+
+***exec SCRIPT_NAME***
+
+## How To Edit:
+
+Use Notepad++ or Wordpad to edit binds and alias commands
+
+## Reverting Back to Default Settings
+
+Delete the .cfg file or script, and verify integrity of game cache through STEAM
+
+
+## Setting Launch Options
+
+Enter launch options at 
+`Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
+Input "+exec autoexec.cfg"
+
+## Final
+Thanks for reading, and enjoy!
