@@ -29,5 +29,5 @@ Enter launch options at
 `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 Input "+exec autoexec.cfg"
 
-## Final
+
 Thanks for reading, and enjoy!
