@@ -20,13 +20,10 @@ Use Notepad++ or Wordpad to edit binds and alias commands
 Delete the .cfg file or script, and verify integrity of game cache through Steam
 
 
-## Setting Launch Options
+## Setting Launch Options:
 
  - Enter launch options at 
-
-
 	`Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch 				Options...`
-
  - Add ***+exec autoexec.cfg***
 
 
